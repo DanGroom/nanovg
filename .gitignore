@@ -26,3 +26,9 @@ build/*
 
 ## xcode specific
 *xcuserdata*
+
+## clion specific
+.idea/*
+
+#cmake specific
+cmake-build*
